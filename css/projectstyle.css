@@ -11,16 +11,19 @@ p {
 }
 ul {
   background-color: aqua;
+  font-family: sans-serif;
 }
 h2 {
   color: white;
   background-color: Navy;
 }
 ol li {
-  background-color: white;
-
+  font-family: sans-serif;
 }
 .myrow {
   padding-top: 15px;
   padding-bottom: 15px;
+}
+.method img {
+  height: 150px;
 }
