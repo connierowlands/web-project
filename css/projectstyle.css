@@ -1,6 +1,8 @@
+
 h1 {
-  color: black;
-  font-weight: bold;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  color: white;
+  background-color: red;
 }
 p {
   color: blue;
